@@ -1,4 +1,4 @@
-# Sistem Absensi Menggunakan RFID
+# Sistem Absensi Menggunakan Kartu RFID
 
 ## KS KOLABORASI TIGA DIVISI | Funtastic Three
 
